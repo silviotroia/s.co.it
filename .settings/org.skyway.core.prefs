@@ -1,0 +1,6 @@
+#org.skyway.core settings
+#Thu Sep 11 11:22:49 CEST 2014
+version=12.0.0.qualifier
+default.top.level.package=it.stasbranger.s.co.it
+models.folder.name=.springDSL
+initialized=true
